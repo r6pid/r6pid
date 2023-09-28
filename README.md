@@ -1,1 +1,1 @@
-[![Statistics](https://github-readme-stats.vercel.app/api?username=r6pid)]
+[Statistics](https://github-readme-stats.vercel.app/api?username=r6pid)]
